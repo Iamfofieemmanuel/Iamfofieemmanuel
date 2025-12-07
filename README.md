@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Hello World!!<br>My name is Emmanuel Fofie.<br>An Electrical and Electronics Engineer.<br>Currently working as a Technical Trainer in a Top Manufacturing Company.</p>
+<p align="left">Hello World!!<br>My name is Emmanuel Fofie.<br>An Electrical and Electronics Engineer.<br>Currently working as a Technical Trainer.</p>
 
 ###
 
